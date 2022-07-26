@@ -49,7 +49,8 @@
 <ul>
 <li>4月开始写rax项目，这个阶段，开始尝试掘金blog</li>
 <li>5月，回到react组，继续写react</li>
-<li>开始了记录生涯</li>
+<li>6月，开始自学canvas，做一些练习demo</li>
+<li>7月开始在掘金参加有奖活动，并开始了自己的记录生活</li>
 </ul>
 </div>
 </details>
